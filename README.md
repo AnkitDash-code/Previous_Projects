@@ -1,5 +1,7 @@
 # ** This Respository Consists of a few out of all the porjects I did before college **
 
+# **E-Bin: A Smart Waste Management System 🗑️♻️**
+
 
 ## ** Projects : - **
 
