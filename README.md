@@ -1,4 +1,4 @@
-# **This Respository Consists of a few out of all the porjects I did before college **
+# ** This Respository Consists of a few out of all the porjects I did before college **
 
 
 ## ** Projects : - **
